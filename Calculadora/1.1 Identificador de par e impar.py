@@ -18,3 +18,4 @@ def par():
 par()
 
 print(par)
+x = 2
